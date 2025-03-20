@@ -20,6 +20,8 @@
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-LinuxServer-0D1117?style=for-the-badge&logo=linuxserver&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-hyper-v-0D1117?style=for-the-badge&logo=hyperx&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-vmware-0D1117?style=for-the-badge&logo=vmware&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
